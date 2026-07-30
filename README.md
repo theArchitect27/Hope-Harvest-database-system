@@ -6,7 +6,7 @@ An Oracle SQL database system developed for Hope Harvest to manage beneficiaries
 
 The Hope Harvest Database System is an Oracle SQL database designed for a non-profit organization that distributes food parcels to families in need.
 
-The system manages beneficiaries, guardians, sponsors, donations, volunteers, food parcels, and inventory while improving efficiency through database automation and reporting.
+The system manages beneficiaries, guardians, sponsors, donations, volunteers, food parcels and inventory while improving efficiency through database automation and reporting.
 
 ## Technologies
 
